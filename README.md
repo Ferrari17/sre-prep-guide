@@ -2,6 +2,8 @@
 
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
+DevOpsworks blog -- https://devopsworks.blogspot.com/
+
 ## Basics
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
